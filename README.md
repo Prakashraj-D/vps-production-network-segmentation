@@ -4,6 +4,17 @@ Production-oriented VPS network segmentation architecture designed around
 Sophos Firewall, Proxmox Cluster, VLAN isolation, redundant connectivity,
 and secure infrastructure operations.
 
+## Project Type
+
+**Portfolio / Documentation Project**
+
+This repository presents a redacted, portfolio-safe version of a
+production-oriented VPS network segmentation architecture.
+
+Real infrastructure addressing, VLAN identifiers, interface names,
+port mappings, ISP details, and other operationally sensitive information
+have been intentionally removed.
+
 ## Overview
 
 This project documents the design and implementation approach for a
